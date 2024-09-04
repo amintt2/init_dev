@@ -40,3 +40,7 @@ min := S / 60
 S := S - min x 60  
 sec := S
 
+# Exercice 7
+
+Km Par Kwh := 100/Conso  
+milesParKwh := kmParKwh x 0,62137  
