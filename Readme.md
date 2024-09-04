@@ -25,4 +25,4 @@ contrib := Cx1000000000 / prod x 1000
 
 # Exercice 4
 
-### Rapelle " eJ := m x g x h     ekwh := eJ/
+### Rapelle " eJ := m x g x h     ekwh := eJ/J6000000
