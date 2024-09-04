@@ -1,18 +1,18 @@
 # Exercice 1
 
-Stoper ()
-Fermer B ()
-Remplir ()
-Ouvrir A ()
-Avancer ()
-Fermer A ()
-Vider ()
-Ouvrir ()
-Avancer ()
+Stoper ()  
+Fermer B ()  
+Remplir ()  
+Ouvrir A ()  
+Avancer ()  
+Fermer A ()  
+Vider ()  
+Ouvrir ()  
+Avancer ()  
 
 # Exercice 2
 
-V := L x l x p
+V := L x l x p  
 pluie := V/a x 1000
 
 # Exercice 3 
@@ -29,7 +29,7 @@ contrib := Cx1000000000 / prod x 1000
 ### ekwh := eJ/3600000
 
 # Exercice 5
-mkg := 3,6x10—6 / g x h
+mkg := 3,6x10—6 / g x h  
 
 Vm3 := mkg / 1000
 
