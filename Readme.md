@@ -16,3 +16,5 @@ V := L x l x p
 pluie := V/a x 1000
 
 # Exercice 3 
+
+((P x 0,8 ) x d )/C
