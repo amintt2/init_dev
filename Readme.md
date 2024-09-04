@@ -33,3 +33,10 @@ mkg := 3,6x10—6 / g x h
 
 Vm3 := mkg / 1000
 
+# Exercice 6
+heures := S/3600  
+S := S - heure x 3600  
+min := S / 60  
+S := S - min x 60  
+sec := S
+
