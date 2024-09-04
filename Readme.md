@@ -12,3 +12,5 @@ Avancer ()
 
 # Exercice 2
 
+V := L x l x p
+pluie := V/a x 1000
