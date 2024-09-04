@@ -1,4 +1,4 @@
-#Exercice 1
+# Exercice 1
 
 Stoper ()
 Fermer B ()
@@ -9,3 +9,6 @@ Fermer A ()
 Vider ()
 Ouvrir ()
 Avancer ()
+
+# Exercice 2
+
