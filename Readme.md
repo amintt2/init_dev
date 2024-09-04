@@ -25,7 +25,8 @@ contrib := Cx1000000000 / prod x 1000
 
 # Exercice 4
 
-### Rapelle " eJ := m x g x h     ekwh := eJ/3600000
+### Rapelle " eJ := m x g x h  
+### ekwh := eJ/3600000
 
 mkg := 3,6x10—6 / g x h
 
