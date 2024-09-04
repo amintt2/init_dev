@@ -18,3 +18,7 @@ pluie := V/a x 1000
 # Exercice 3 
 
 ((P x 0,8 ) x d )/C
+
+Corriger : 
+Prod := 365x24xPx0,8xd
+contrib := Cx1000000000 / prod x 1000
