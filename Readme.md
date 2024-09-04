@@ -24,3 +24,5 @@ Prod := 365x24xPx0,8xd
 contrib := Cx1000000000 / prod x 1000
 
 # Exercice 4
+
+### Rapelle " eJ := m x g x h     ekwh := eJ/
