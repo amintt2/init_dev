@@ -47,5 +47,6 @@ milesParKwh := kmParKwh x 0,62137
 
 # Exercice 8
 
-cAltitude kwh := d / 100 x c  
+eAltitude kwh := (Eb - Ea) x m x g / 3,6 x 10-6
+eDistance  d / 100 x c  x
 eTotalKwh := eDistanceKwh + eAltitudeKwh
