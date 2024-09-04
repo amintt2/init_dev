@@ -14,3 +14,5 @@ Avancer ()
 
 V := L x l x p
 pluie := V/a x 1000
+
+# Exercice 3 
